@@ -1,11 +1,12 @@
 # LiquidLunar
 
-[![Java CI](https://github.com/CubewhyMC/LiquidLunarMCP/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/CubewhyMC/LiquidLunarMCP/actions/workflows/CI-Build)
+[![Java CI](https://github.com/CubewhyMC/LiquidLunarMCP/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/CubewhyMC/LiquidLunarMCP/actions/workflows/gradle.yml)
 ![last commit](https://img.shields.io/github/last-commit/CubeWhyMC/LiquidLunarMCP)
 ![code size](https://img.shields.io/github/repo-size/CubeWhyMC/LiquidLunarMCP)
 [![Latest Release](https://img.shields.io/github/v/release/CubewhyMC/LiquidLunarMCP)](https://github.com/CubewhyMC/LiquidLunarMCP/release)
 [![License](https://img.shields.io/github/license/CubewhyMC/LiquidLunarMCP)](https://github.com/Cubewhy/LiquidLunarMCP/blob/master/LICENSE)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubewhyMC/LiquidLunarMCP)](https://github.com/CubewhyMC/LiquidLunarMCP/actions)
+[![Discord](https://img.shields.io/discord/1047866655033802802.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/rCqCepgWJc)
 
 > MCP version
 
