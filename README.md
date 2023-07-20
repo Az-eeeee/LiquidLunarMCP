@@ -32,6 +32,16 @@ Java17 have more performance, so we choose Java17
 
 We build LiquidLunarMCP via Java 17, please ignore warn from your launcher
 
+## Running
+
+> If your launcher can't change natives path, your can try [Hello Minecraft Launcher](https://github.com/huanghongxun/HMCL)
+
+We all using Windows System, so we don't have natives to other platforms, if you have, please create a [issue](https://github.com/CubeWhyMC/LiquidLunarMCP/issues)
+
+1. Download [natives](https://cowtransfer.com/s/6ac9e817515447)
+2. Put natives into a path and set native path in your launcher
+3. Launch the game
+
 ## Building
 
 You need download the run folder and put it to project dir
