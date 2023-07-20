@@ -31,3 +31,11 @@ Find it [here](https://github.com/CubeWhyMC/LiquidLunarMCP/releases)
 Java17 have more performance, so we choose Java17
 
 We build LiquidLunarMCP via Java 17, please ignore warn from your launcher
+
+## Building
+
+You need download the run folder and put it to project dir
+
+[Download run folder](https://cowtransfer.com/s/9c6f8d74100242)
+
+do `gradlew build`, and you'll find artifact in the build/libs folder
