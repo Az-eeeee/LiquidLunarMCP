@@ -1,6 +1,6 @@
 # LiquidLunar
 
-[![Build Status](https://github.com/CubewhyMC/LiquidLunarMCP/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/CubeWhyMC/LiquidLunarMCP/actions/workflows/gradle.yml)
+[![Build Status](https://github.com/CubewhyMC/LiquidLunarMCP/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/CubeWhyMC/LiquidLunarMCP/actions/workflows/gradle.yml)
 ![last commit](https://img.shields.io/github/last-commit/CubeWhyMC/LiquidLunarMCP)
 ![code size](https://img.shields.io/github/repo-size/CubeWhyMC/LiquidLunarMCP)
 [![Latest Release](https://img.shields.io/github/v/release/CubewhyMC/LiquidLunarMCP)](https://github.com/CubewhyMC/LiquidLunarMCP/release)
